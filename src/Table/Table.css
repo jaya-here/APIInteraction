@@ -1,0 +1,25 @@
+.img {
+    height:13rem;
+    width:8rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+table {
+    max-width: 973px;
+    border: 1px solid lightblue;
+    margin-top: 1rem;
+}
+
+
+p {
+    margin-bottom: 0rem;
+}
+
+.food-pairing {
+    gap:0.5rem;
+}
+
+.table_lastColumn {
+    padding-right: 1.5rem;
+}
